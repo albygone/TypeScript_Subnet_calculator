@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"module": "ESNext",
+		"lib": ["ESNext", "DOM"],
+		"noImplicitAny": true,
+		"removeComments": true,
+		"preserveConstEnums": true,
+		"rootDir": "./ts",
+		"outDir": "./js",
+	}
+}
